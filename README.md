@@ -8,7 +8,7 @@ Check out my live site: https://todolistapp-rgjb.herokuapp.com/
 
 ## What did I learn?
 
-This was the first project that I have used Django properly and I feel like I now understand the basics of how it works. There are a lot of code snippets in different files that need adding and updating as you build out the app, which are difficult to keep track of at times. I think more practice with the framework with help cement in this knowledge. This was also the first time I have deployed anything to Heroku and it was quite a steep learning curve to make sure all the settings were correct in order for the Django app to function correctly.
+This was the first project that I have used Django properly and I feel like I now understand the basics of how it works. There are a lot of code snippets in different files that need adding and updating as you build out the app, which are difficult to keep track of at times. I think more practice with the framework will help cement in this knowledge. This was also the first time I have deployed anything to Heroku and it was quite a steep learning curve to make sure all the settings were correct in order for the Django app to function correctly.
 
 ## Resources
 
